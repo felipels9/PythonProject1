@@ -1,0 +1,35 @@
+# Arquivos de ambiente
+.env
+
+# Bytecode Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Pastas de build e distribuição
+build/
+dist/
+*.egg-info/
+
+# Configurações do PyCharm
+.idea/
+
+# Arquivos temporários
+*.log
+*.tmp
+*.temp
+
+# Arquivos de sistema
+.DS_Store
+Thumbs.db
+
+# Arquivos de testes e cobertura (opcional)
+.coverage
+htmlcov/
+.tox/
+
+# Configurações do VSCode (se usar)
+.vscode/
+
+# Outros arquivos que geralmente não precisam no repo
+*.swp
