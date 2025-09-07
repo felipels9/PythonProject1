@@ -1,6 +1,5 @@
 import os
 import re
-import sys
 import pandas as pd
 from openai import OpenAI
 from dotenv import load_dotenv
